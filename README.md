@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **I am funny 😃 and I like to play video games 🎮**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
