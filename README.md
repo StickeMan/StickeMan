@@ -46,7 +46,7 @@
 
 ### 📊 My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=StickeMan&show_icons=true&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=StickeMan&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=StickeMan&show_icons=true&theme=shades-of-purple&hide_border=true)
 
