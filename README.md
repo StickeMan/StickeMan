@@ -12,7 +12,7 @@
 ### 🧑🏽 About Me :
 - 🌱 I’m currently learning **Frameworks and courses.**
 
-- 📫 How to reach me **paco_purpura@hotmail.com**
+- 📫 How to reach me **francisco.slim16@gmail.com**
 
 - ⚡ Fun fact **I am funny 😃 and I like to play video games 🎮**
 
