@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **francisco.slim16@gmail.com**
 
-- ⚡ Fun fact **I am funny 😃 and I like to play video games 🎮**
-
 <div align="center">
     <h3 align="left">🔨 Languages and Tools:</h3>
     <div>
