@@ -38,6 +38,9 @@
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </div>
+</div>
+
+<div id="badges" align="center">
     <img src="[https://img.shields.io/github/followers/StickeMan?color=purple&logo=GitHub&style=for-the-badge](https://miro.medium.com/v2/resize:fit:1100/1*zteMCsKOxBYGgkEdw_6jww.gif)" />
 </div>
 
