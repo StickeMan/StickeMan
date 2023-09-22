@@ -43,13 +43,3 @@
 <div id="badges" align="center">
     <img src="[https://img.shields.io/github/followers/StickeMan?color=purple&logo=GitHub&style=for-the-badge](https://miro.medium.com/v2/resize:fit:1100/1*zteMCsKOxBYGgkEdw_6jww.gif)" />
 </div>
-
----
-
-### 📊 My Stats :
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=StickeMan&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=StickeMan&show_icons=true&theme=shades-of-purple&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StickeMan&theme=shades-of-purple&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
